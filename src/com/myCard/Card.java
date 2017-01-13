@@ -7,7 +7,7 @@ public class Card {
 	int x=0;      //横坐标2222222222222222222222222222
 	int y=0;	  //纵坐标
 	int width;    //宽度
-	int height;   //高度
+	int height;   //高度4444444444444444444444444
 	Bitmap bitmap;//图片 
 	String name; //Card的名称
 	boolean rear=true;//是否是背面

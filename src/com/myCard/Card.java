@@ -4,7 +4,7 @@ import android.graphics.Bitmap;
 import android.graphics.Rect;
 
 public class Card {
-	int x=0;      //横坐标
+	int x=0;      //横坐标1111111
 	int y=0;	  //纵坐标
 	int width;    //宽度
 	int height;   //高度4444444444444444444444444

@@ -9,7 +9,7 @@ public class Card {
 	int width;    //宽度
 	int height;   //高度4444444444444444444444444
 	Bitmap bitmap;//图片 
-	String name; //Card的名称
+	String name; //Card的名称555555555555555555555555555555
 	boolean rear=true;//是否是背面
 	boolean clicked=false;//是否被点击
 	public Card(int width,int height,Bitmap bitmap){
